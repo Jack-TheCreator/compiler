@@ -1,0 +1,14 @@
+10: dim foo as array of integer 5
+11: dim x as integer
+12: input as x
+13: print x
+14: dim y as integer
+15: y := 9
+16: foo(3) := y
+17: dim z as integer
+18: z := 3
+19: print foo(z)
+
+
+
+
